@@ -26,7 +26,7 @@ I am a Systems Engineering student and a Full-Stack Developer passionate about b
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GarbageBoy8&show_icons=true&theme=radium&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com/?user=GarbageBoy8&theme=radium&hide_border=true)
 
 ---
 
